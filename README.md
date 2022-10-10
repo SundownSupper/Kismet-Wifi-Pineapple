@@ -6,17 +6,22 @@ First just upate you pineapple by
 
     opkg update 
 
-and then if you have a tp-link 722N V1 you can issue:
+Then if you have a tp-link 722N V1 you can issue:
 
     opkg install kmod-ath9k-htc
+
+  
 
 
 
 I have the 5ghz add-on also to the pineapple so i will have extra wireless sources. Change your set-up acordingly.
 
-ignore packetloss alerts, achieve Valhalla 
 
-below are my config files. Enjoy
+Autokismet.sh is the bash script i use for the pineapple when im ready to go! Or save it to the button script for easy acsess 
+
+Ignore packetloss alerts, achieve Valhalla 
+
+Above are my config files. Enjoy
 
 
 ![Kismet 1](https://user-images.githubusercontent.com/106935433/194791387-c4f7d91b-10c2-46ae-8afc-c4c94eaad6f7.png)
