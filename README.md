@@ -14,7 +14,7 @@ and then if you have a tp-link 722N V1 you can issue:
 
 I have the 5ghz add-on also to the pineapple so i will have extra wireless sources. Change your set-up acordingly.
 
-ignore packetloss files, achieve Valhalla 
+ignore packetloss alerts, achieve Valhalla 
 
 below are my config files. Enjoy
 
