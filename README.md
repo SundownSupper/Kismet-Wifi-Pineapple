@@ -14,10 +14,10 @@ Then if you have a tp-link 722N V1 you can issue:
 
 
 
-I have the 5ghz add-on also to the pineapple so i will have extra wireless sources. Change your set-up acordingly.
+I have the 5ghz add-on also to the pineapple so I will have extra wireless sources. Change your set-up accordingly.
 
 
-Autokismet.sh is the bash script i use for the pineapple when im ready to go! Or save it to the button script for easy acsess 
+Autokismet.sh is the bash script I use for the pineapple when im ready to go! Or save it to the button script for easy acsess 
 
 Ignore packetloss alerts, achieve Valhalla 
 
