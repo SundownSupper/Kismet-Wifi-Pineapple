@@ -1,0 +1,32 @@
+#!/bin/bash
+
+
+
+ifconfig wlan1 down
+ iwconfig wlan1 mode monitor
+ ifconfig wlan1 up
+ ifconfig wlan2 down
+ iwconfig wlan2 mode monitor
+ ifconfig wlan2 up
+ ifconfig wlan3 down
+ iwconfig wlan3 mode monitor
+ ifconfig wlan3 up
+ ifconfig wlan4 down
+ iwconfig wlan4 mode monitor
+ ifconfig wlan4 up
+
+
+sleep 5
+
+echo kismet is starting
+
+iwconfig
+
+sleep 3
+
+LED M SLOW
+
+kismet --override  wardrive 
+
+
+
